@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Contact Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Contact Me </h3>
 
 <p align="center">
 <!-- <a href="#"><img alt="Website WIP" src=""></a> -->
